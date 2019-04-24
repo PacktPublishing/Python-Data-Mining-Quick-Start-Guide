@@ -51,9 +51,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products <Other books you may enjoy>
-* Bayesian Analysis with Python - Second Edition [[Packt]](https://prod.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789341652) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Bayesian Analysis with Python - Second Edition [[Packt]](https://prod.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789341652) [[Amazon]](https://www.amazon.com/dp/1789341655)
 
-* Big Data Analysis with Python [[Packt]](https://prod.packtpub.com/in/big-data-and-business-intelligence/big-data-analysis-python?utm_source=github&utm_medium=repository&utm_campaign=9781789955286) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Big Data Analysis with Python [[Packt]](https://prod.packtpub.com/in/big-data-and-business-intelligence/big-data-analysis-python?utm_source=github&utm_medium=repository&utm_campaign=9781789955286) [[Amazon]](https://www.amazon.com/dp/1789955289)
 
 ## Get to Know the Author
 **Nathan Greeneltch**
