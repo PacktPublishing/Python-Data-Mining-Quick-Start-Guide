@@ -60,8 +60,16 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
 ## Get to Know the Author
-**Author Name**
-Bio
+**Nathan Greeneltch**
+, PhD is a ML engineer at Intel Corp and resident data mining and
+analytics expert in the AI consulting group. He’s worked with Python analytics in both the
+start-up realm and the large-scale manufacturing sector over the course of the last decade.
+Nathan regularly mentors new hires and engineers fresh to the field of analytics, with
+impromptu chalk talks and division-wide knowledge-sharing sessions at Intel. In his past
+life, he was a physical chemist studying surface enhancement of the vibration signals of
+small molecules; a topic on which he wrote a doctoral thesis while at Northwestern
+University in Evanston, IL. Nathan hails from the southeastern United States, with family
+in equal parts from Arkansas and Florida.
 
 **Author Name**
 Bio
