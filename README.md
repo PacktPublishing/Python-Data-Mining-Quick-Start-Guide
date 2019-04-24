@@ -47,31 +47,17 @@ With the following software and hardware list you can run all code files present
 |          | matplotlib 2.2.3                    |                                    |
 |          | pickle 3.7                          |                                    |
 
-
-
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789800265_ColorImages.pdf).
 
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Bayesian Analysis with Python - Second Edition [[Packt]](https://prod.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789341652) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Big Data Analysis with Python [[Packt]](https://prod.packtpub.com/in/big-data-and-business-intelligence/big-data-analysis-python?utm_source=github&utm_medium=repository&utm_campaign=9781789955286) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
 ## Get to Know the Author
 **Nathan Greeneltch**
-, PhD is a ML engineer at Intel Corp and resident data mining and
-analytics expert in the AI consulting group. He’s worked with Python analytics in both the
-start-up realm and the large-scale manufacturing sector over the course of the last decade.
-Nathan regularly mentors new hires and engineers fresh to the field of analytics, with
-impromptu chalk talks and division-wide knowledge-sharing sessions at Intel. In his past
-life, he was a physical chemist studying surface enhancement of the vibration signals of
-small molecules; a topic on which he wrote a doctoral thesis while at Northwestern
-University in Evanston, IL. Nathan hails from the southeastern United States, with family
-in equal parts from Arkansas and Florida.
-
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+, PhD is a ML engineer at Intel Corp and resident data mining and analytics expert in the AI consulting group. He’s worked with Python analytics in both the start-up realm and the large-scale manufacturing sector over the course of the last decade. Nathan regularly mentors new hires and engineers fresh to the field of analytics, with impromptu chalk talks and division-wide knowledge-sharing sessions at Intel. In his past life, he was a physical chemist studying surface enhancement of the vibration signals of small molecules; a topic on which he wrote a doctoral thesis while at Northwestern University in Evanston, IL. Nathan hails from the southeastern United States, with family in equal parts from Arkansas and Florida.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
