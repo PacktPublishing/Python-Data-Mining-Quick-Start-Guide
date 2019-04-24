@@ -39,7 +39,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-7      | Pandas 0.23.4                       | Windows, Mac OS X, and Linux (Any  |
+| 1-7      | Pandas 0.23.4                       | Windows, Mac OS X, and Linux       |
 |          | seaborn 0.9.0                       |                                    |
 |          | scikit-learn 0.20.2                 |                                    |
 |          | sqlite 3.25.3                       |                                    |
