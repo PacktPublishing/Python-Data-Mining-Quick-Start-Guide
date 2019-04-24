@@ -5,7 +5,7 @@ Python Data Mining Quick Start Guide, Published by Packt
 
 This is the code repository for [Python Data Mining Quick Start Guide](https://prod.packtpub.com/in/big-data-and-business-intelligence/python-data-mining-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789800265), published by Packt.
 
-**A beginner's guide to extract valuable insights from your data**
+**A beginner's guide to extracting valuable insights from your data**
 
 ## What is this book about?
 Data mining is a necessary and predictable response to the dawn of the information age. It is typically defined as the pattern and/or trend discovery phase in the pipeline and Python is a popular tool to perform these tasks as it offers a wide variety of tools for data mining.
@@ -26,10 +26,8 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+sns.pairplot(df,hue='species',diag_kind='hist',
+palette='bright',markers=['o','x','v']
 ```
 
 **Following is what you need for this book:**
@@ -70,10 +68,6 @@ life, he was a physical chemist studying surface enhancement of the vibration si
 small molecules; a topic on which he wrote a doctoral thesis while at Northwestern
 University in Evanston, IL. Nathan hails from the southeastern United States, with family
 in equal parts from Arkansas and Florida.
-
-**Author Name**
-Bio
-
 
 ## Other books by the authors
 * [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
