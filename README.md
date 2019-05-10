@@ -1,5 +1,5 @@
 # Python-Data-Mining-Quick-Start-Guide
-Python Data Mining Quick Start Guide, Published by Packt
+Python Data Mining Quick Start Guide, published by Packt
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/python-data-mining-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789800265"><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b12376_mockupcover.png" alt="Python Data Mining Quick Start Guide" height="256px" align="right"></a>
 
